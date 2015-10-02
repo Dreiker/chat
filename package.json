@@ -8,13 +8,5 @@
   },
   "dependencies": {
     "express": "4.13.3"
-  },
-  "engines": {
-    "node": "0.12.7"
-  },
-  "keywords": [
-    "node",
-    "express"
-  ],
-  "license": "MIT"
+  }
 }

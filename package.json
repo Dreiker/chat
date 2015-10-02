@@ -1,13 +1,12 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.1.5",
-  "description": "A sample Node.js app using Express 4",
+  "name": "chat",
+  "version": "0.0.2",
+  "description": "Chat application",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "ejs": "2.3.3",
     "express": "4.13.3"
   },
   "engines": {
@@ -15,7 +14,6 @@
   },
   "keywords": [
     "node",
-    "heroku",
     "express"
   ],
   "license": "MIT"
